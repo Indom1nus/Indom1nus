@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Aspiring Computer Scientist!
 <!--
 **Indom1nus/Indom1nus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
